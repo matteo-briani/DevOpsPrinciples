@@ -22,7 +22,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "minima", "~> 2.5"
+gem "minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
