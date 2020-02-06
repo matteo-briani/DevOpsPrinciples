@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DevOps Principles
+title: DevOps Principles from The Phoenix Project
 email: spalla@autistici.org 
 description: >- # this means to ignore newlines until "baseurl:"
         DevOps Principles as described in the book The Phoenix Project
