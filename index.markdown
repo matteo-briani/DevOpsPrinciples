@@ -15,12 +15,12 @@ Each of them subdivided into practical hints.
 ***
 ### Principle of Flow
 
-1. Make you work visible
-2. Limit Work in Progress (WIP)
-3. Reduce batch size
-4. Reduce number of handoff
-5. Continually identify and elevate constrain
-6. Eliminate hardships and waste in the value stream
+- Make you work visible
+- Limit Work in Progress (WIP)
+- Reduce batch size
+- Reduce number of handoff
+- Continually identify and elevate constrain
+- Eliminate hardships and waste in the value stream
 
 ***
 ### Principle of Feedback
