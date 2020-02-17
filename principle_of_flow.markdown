@@ -9,6 +9,8 @@ layout: home
 ### Make you work visible
 
 A very visual example is to organize the work in a Kanban board. 
+In this way you can actually see the incoming work, the current work and what has been done.
+This configuration helps to see the actual flow of work.
 
 ***
 ### Limit Work in Progress (WIP)
@@ -41,13 +43,13 @@ In *Beyond the Goal* Dr. Goldratt stats:
 ### Eliminate hardships and waste in the value stream
 
 There are several categories of waste and hardship (from *Implementing Lean Software Development*)
-   * Partially done work
-   * Extra processes
-   * Extra features
-   * Task switching
-   * Waiting
-   * Motion
-   * Defects
-   * Nonstandard or manual work
-   * Heroics
+   * Partially done work (PDW ages quickly and becomes obsolete)
+   * Extra processes (Whatever does not add value, ex unused documentation, reviews or approvals that do not add value)
+   * Extra features (Features that are not needed by the customer)
+   * Task switching (Context switch requires time)
+   * Waiting (self explanatory)
+   * Motion (Whatever requires some motion. Ex handsoff are motion waste, or people that need to communicate frequently but they are not colocated)
+   * Defects (Incorrect, missing or unclear informations etc.)
+   * Nonstandard or manual work (Ideally, any dependencies should be automated, self-serviced and alvailable on demand)
+   * Heroics (When individuals or teams are required to perform unreasonable acts; ex. stay at work longer shifts)
 
